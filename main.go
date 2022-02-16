@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World Emoji!")
+	fmt.Println("Hello World GO Emoji!")
 
 	emoji.Println(":beer: Beer!!!")
 
